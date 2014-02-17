@@ -1,0 +1,45 @@
+{
+  "Pack": [
+    {
+      "content": [
+        {
+          "type": "CONFIGURATION",
+          "attributes": {},
+          "filename": "config.json",
+          "ver": 1
+        }
+      ],
+      "packInfo": {
+        "name": "Test core pack 1",
+        "attributes": {
+          "pack_type": "core"
+        },
+        "desc": "The first core test pack",
+        "icon": [],
+        "author": [],
+        "ver": 1,
+        "tandc": [
+          {
+            "type": "TERMSANDCOND",
+            "attributes": {
+              "locale": "ja_JP",
+              "default": "yes"
+            },
+            "filename": "jp_tos.txt",
+            "ver": "1"
+          },
+          {
+            "type": "TERMSANDCOND",
+            "attributes": {
+              "locale": "en_US"
+            },
+            "filename": "en_tos.txt",
+            "ver": "1"
+          }
+        ],
+        "logo": [],
+        "screenshot": []
+      }
+    }
+  ]
+}
