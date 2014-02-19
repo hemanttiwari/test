@@ -1,0 +1,58 @@
+{
+    "device": {
+        "deviceContextId": 158505
+    },
+    "packList": [
+        {
+            "content": [
+                {
+                    "id": 100485,
+                    "type": "CONFIGURATION",
+                    "size": 0,
+                    "attributes": {},
+                    "url": "https://mts.iot.unabdev.sprint.com/mts-aul/market/v1/content/100485/stream",
+                    "filename": "config.json",
+                    "ver": "1"
+                }
+            ],
+            "packInfo": {
+                "name": "Test core pack 1",
+                "attributes": {
+                    "pack_type": "core"
+                },
+                "desc": "The first core test pack",
+                "icon": null,
+                "author": [],
+                "ver": "1",
+                "packId": "2",
+                "tandc": [
+                    {
+                        "id": 100484,
+                        "type": "TERMSANDCOND",
+                        "size": 0,
+                        "attributes": {
+                            "locale": "en_US"
+                        },
+                        "url": "https://mts.iot.unabdev.sprint.com/mts-aul/market/v1/content/100484/stream",
+                        "filename": "en_tos.txt",
+                        "ver": "1"
+                    },
+                    {
+                        "id": 100483,
+                        "type": "TERMSANDCOND",
+                        "size": 0,
+                        "attributes": {
+                            "default": "yes",
+                            "locale": "ja_JP"
+                        },
+                        "url": "https://mts.iot.unabdev.sprint.com/mts-aul/market/v1/content/100483/stream",
+                        "filename": "jp_tos.txt",
+                        "ver": "1"
+                    }
+                ],
+                "logo": null,
+                "screenshot": null
+            }
+        }
+    ]
+}
